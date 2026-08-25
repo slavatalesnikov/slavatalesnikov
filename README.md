@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/SBeJA5nIoO)
