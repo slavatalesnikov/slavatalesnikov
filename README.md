@@ -1,6 +1,6 @@
 
 ## LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/SBeJA5nIoO)
+![Leetcode Stats](https://leetcard.jacoblin.cool/slavatalesnikov)
 
 <!--
 **slavatalesnikov/slavatalesnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
