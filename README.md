@@ -2,6 +2,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/slavatalesnikov)
 
+[![StrataScratch Profile](https://img.shields.io/badge/StrataScratch-My_Profile-20232A?style=for-the-badge&logo=postgresql&logoColor=white)](https://platform.stratascratch.com/user/stalesnikov)
 
 <!--
 **slavatalesnikov/slavatalesnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
