@@ -1,9 +1,14 @@
 ## Hi! I'm Slava, I'm an analytics enjoyer 🔭
 
+## I interested in python, sql, machine learning and everything that contains data
+
+## leetcode stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/slavatalesnikov)
 
+## stratascratch stats:
 [![StrataScratch Profile](https://img.shields.io/badge/StrataScratch-My_Profile-20232A?style=for-the-badge&logo=postgresql&logoColor=white)](https://platform.stratascratch.com/user/stalesnikov)
 
+## below my projects:
 <!--
 **slavatalesnikov/slavatalesnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
