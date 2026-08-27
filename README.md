@@ -1,6 +1,6 @@
 ## Hi! I'm Slava, I'm an analytics enjoyer 🔭
 
-## leetCode stats
+leetCode stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/slavatalesnikov)
 
 
